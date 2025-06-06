@@ -3,6 +3,6 @@
 
 import app from './app.js'
 
-app.listen(3003, () => {
-    console.log('Servidor rodando na porta 3003');
+app.listen(3002, () => {
+    console.log('Servidor rodando na porta 3002');
 });
